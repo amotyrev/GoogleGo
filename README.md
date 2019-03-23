@@ -1,2 +1,2 @@
 # TestRepo
-I learn GoogleGo and I put here my coding of it
+Ich lerne  googleGo und hier sind meine  Entwicklungen
